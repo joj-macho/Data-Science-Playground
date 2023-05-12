@@ -1,3 +1,3 @@
 # Data Science Playground
 
-This directory contains a collection of data science programs.
+This repository is a Data Science Playground that covers a wide range of machine learning techniques and applications currently of great interest in various fields such as economics, security, healthcare, sciences, and engineering. It includes examples for data analysis, preprocessing, machine learning techniques, classification, regression, and unsupervised learning. There are practical examples with code for electrocardiogram, electroencephalogram, electromyogram signal processing, as well as several medical data classifications. 
